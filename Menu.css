@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+nav li{
+	position: relative;
+	float:left;
+	font-size:larger;
+	text-decoration:none;
+	color:white;
+	padding: 5px 10px;
+	margin-left:2px;
+	margin-right:10px;	
+	font-family: 'raleway', helvetica, verdana, sans-serif;
+	}
+	
+	
+.active{
+	color:#FFBE00;
+	font-size:25px;
+	}
